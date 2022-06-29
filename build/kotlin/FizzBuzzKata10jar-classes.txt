@@ -1,1 +1,1 @@
-D:\DESARROLLO\Kotlin\ProyectoLocal\build\classes\kotlin\main\MainKt.class
+D:\QUARKS\Practicas\FizzBuzz-Kata\build\classes\kotlin\main\MainKt.class
