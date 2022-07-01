@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MarianElioRulesShould" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-07-01T01:12:05" hostname="DESKTOP-KJT1TPI" time="0.008">
+  <properties/>
+  <testcase name="Return Fizz when number divisible by six()" classname="MarianElioRulesShould" time="0.001"/>
+  <testcase name="Create an Array()" classname="MarianElioRulesShould" time="0.001"/>
+  <testcase name="Return Buzz when number divisible by eight()" classname="MarianElioRulesShould" time="0.001"/>
+  <testcase name="Return FizzBuzz when number divisible by six and eight()" classname="MarianElioRulesShould" time="0.001"/>
+  <testcase name="Return all numbers on String()" classname="MarianElioRulesShould" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

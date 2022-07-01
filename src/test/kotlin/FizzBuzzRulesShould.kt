@@ -1,14 +1,14 @@
+import Models.FizzBuzz
+import Utils.FizzBuzzRules
 import org.assertj.core.api.Assertions.assertThat
-import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
 
 
-class FizzBuzzShould {
-
-    private var fizzBuzz = FizzBuzz()
+class FizzBuzzRulesShould {
+    private var fizzBuzz = FizzBuzz(FizzBuzzRules())
 
     @Test
-    fun `Create an Array`(){
+    fun `Create a List of 100 numbers`(){
         val result = fizzBuzz.GetListFizzBuzz()
         assertThat(result.size).isEqualTo(100)
     }
@@ -43,7 +43,6 @@ class FizzBuzzShould {
         assertThat(result.get(29)).isEqualTo("FizzBuzz")
         assertThat(result.get(89)).isEqualTo("FizzBuzz")
     }
-
 
 }
 

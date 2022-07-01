@@ -1,1 +1,1 @@
-D:\QUARKS\Practicas\FizzBuzz-Kata\build\classes\kotlin\main\MainKt.class
+D:\DESARROLLO\Kotlin\FizzBuzz-Kata\build\classes\kotlin\main\MainKt.class;D:\DESARROLLO\Kotlin\FizzBuzz-Kata\build\classes\kotlin\main\Models\FizzBuzz.class;D:\DESARROLLO\Kotlin\FizzBuzz-Kata\build\classes\kotlin\main\Utils\FizzBuzzRules.class;D:\DESARROLLO\Kotlin\FizzBuzz-Kata\build\classes\kotlin\main\Utils\IFizzBuzzRules.class;D:\DESARROLLO\Kotlin\FizzBuzz-Kata\build\classes\kotlin\main\Utils\MarianElioRules.class
